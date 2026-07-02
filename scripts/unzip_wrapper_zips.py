@@ -16,7 +16,7 @@ import zipfile
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-PRINTER_DIRS = ["A1mini", "A2L", "H2C", "H2D", "H2S", "P2S", "X2D"]
+PRINTER_DIRS = ["A1", "A1mini", "A2L", "H2C", "H2D", "H2S", "P1S", "P2S", "X2D"]
 
 
 def find_wrapper_zips():

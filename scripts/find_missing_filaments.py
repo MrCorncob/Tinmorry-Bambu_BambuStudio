@@ -29,7 +29,8 @@ def report_printer(printer_name: str):
 
     print(f"\n=== {printer_name} ({info['compatible']}) ===")
     print(f"  existing bundles: {', '.join(name for _, name, _ in existing) or '(none)'}")
-    print(f"  engineering-tier capable (has ABS/ASA/PC/PA already): {is_engineering_capable(info['dir'])}")
+    print(f"  enclosed: {info['enclosed']}  |  has an engineering-tier bundle already: {is_engineering_capable(info['dir'])}"
+          f"  |  tier-proof active: {is_engineering_capable(info['dir']) and info['enclosed']}")
 
     for gap in find_gaps(printer_name):
         print(f"  [{gap['verdict']:45s}] {gap['label']:24s} <- {gap['source']['file']}")
