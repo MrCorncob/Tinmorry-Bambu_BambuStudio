@@ -20,17 +20,17 @@ X2D/0.4mm/  Bambu Lab X2D, 0.4mm nozzle
 
 | Printer | Filaments |
 |---|---|
-| A1 mini | PETG Matte, TPU 95A |
-| A2L | PETG ECO, PETG Metallic, PLA Rapid, PLA Silk, TPU 95A |
-| H2C | PLA CF, PLA Rapid |
-| H2D | ABS pro, ASA CF, PLA Matte |
-| H2S | ASA CF, PETG CF, PLA Rapid, TPU 95A |
-| P2S | ABS Pro, PETG GF, PETG Marble, PETG Metallic, PP-CF, TPU 95A |
+| A1 mini | PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG CF PP*, PETG ECO*, PETG GF*, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Matte, PETG Metallic*, PETG Sparkly*, PLA*, PLA CF*, PLA Galaxy*, PLA Matte*, PLA Silk*, TPU 95A, TPU GF* |
+| A2L | PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG CF PP*, PETG ECO, PETG GF*, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic, PETG Sparkly*, PLA CF*, PLA Galaxy*, PLA Matte*, PLA Rapid, PLA Silk, TPU 95A, TPU GF* |
+| H2C | ABS*, ASA*, ASA CF*, PC GF*, PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG CF PP*, PETG ECO*, PETG GF*, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic*, PETG Sparkly*, PLA CF, PLA Galaxy*, PLA Matte*, PLA Rapid, PLA Silk*, TPU*, TPU 95A*, TPU GF* |
+| H2D | ABS pro, ASA CF, PC GF*, PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG CF PP*, PETG ECO*, PETG GF*, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic*, PETG Sparkly*, PLA CF*, PLA Galaxy*, PLA Matte, PLA Silk*, TPU*, TPU 95A*, TPU GF* |
+| H2S | ABS*, ABS Pro*, ASA CF, PC GF*, PET CF*, PET CF GF*, PETG CF, PETG ECO*, PETG GF*, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic*, PETG Sparkly*, PLA CF*, PLA Galaxy*, PLA Matte*, PLA Rapid, PLA Silk*, TPU 95A, TPU GF* |
+| P2S | ABS Pro, ASA*, ASA CF*, PC GF*, PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG ECO*, PETG GF, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic, PETG Sparkly*, PLA*, PLA CF*, PLA Galaxy*, PLA Matte*, PLA Silk*, PP-CF, TPU 95A, TPU GF* |
 | X2D | ABS Pro, ASA basic, ASA CF*, PA-CF*, PAHT-CF*, PC GF*, PET CF*, PETG CF, PETG ECO, PETG GF, PETG Galaxy, PETG HS*, PETG Marble, PETG Metallic, PETG Sparkly, PLA CF*, PLA Galaxy*, PLA Silk*, PLA matte, TPU 95A, TPU GF* |
 
 Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bundle under `X2D/0.4mm/` that contains presets for both the P2S and X2D printers.
 
-\* Not an original TINMORRY export — generated from TINMORRY's older per-printer profiles via `scripts/convert_old_repo_to_x2d.py`. See [REFERENCES.md](REFERENCES.md) for details and a caveat on PA-CF/PAHT-CF temperatures.
+\* Not an original TINMORRY export — generated from TINMORRY's older per-printer profiles via `scripts/convert_old_repo_to_printer.py`, gated by a machine-compatibility policy (see CLAUDE.md). PA-CF/PAHT-CF are deliberately absent everywhere except X2D, and ABS/ASA/PC are absent from A1 mini/A2L entirely — none of these printers had compatibility evidence for those materials, so they were skipped rather than guessed. See [REFERENCES.md](REFERENCES.md) for the full inventory and a caveat on the X2D PA-CF/PAHT-CF bundles' temperatures.
 
 ## Installing a profile
 
