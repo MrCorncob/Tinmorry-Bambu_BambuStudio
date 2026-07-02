@@ -27,7 +27,7 @@ from _filament_lib import INVENTORY_FOLDERS, REPO_ROOT, inventory_rows  # noqa: 
 
 GITHUB_OWNER = "MrCorncob"
 GITHUB_REPO = "Tinmorry-Bambu_BambuStudio"
-GITHUB_BRANCH = "refactor/X2D"
+GITHUB_BRANCH = "all-printers"
 
 BEGIN = "<!-- BEGIN GENERATED PROFILE TABLES -->"
 END = "<!-- END GENERATED PROFILE TABLES -->"

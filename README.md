@@ -47,27 +47,27 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PC%20GF.bbsflmt) |
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PET%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
-| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PLA.bbsflmt) |
-| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PLA%20Matte.bbsflmt) |
-| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY TPU | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20TPU.bbsflmt) |
-| TINMORRY TPU 95a | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20TPU%2095a.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PC%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PET%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
+| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PLA.bbsflmt) |
+| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PLA%20Matte.bbsflmt) |
+| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY TPU | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20TPU.bbsflmt) |
+| TINMORRY TPU 95a | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20TPU%2095a.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
@@ -76,26 +76,26 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PET%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
-| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Matte | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20Matte.bbsflmt) |
-| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PLA.bbsflmt) |
-| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PLA%20Matte.bbsflmt) |
-| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20TPU%2095A.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A1mini/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PET%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
+| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20Matte.bbsflmt) |
+| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PLA.bbsflmt) |
+| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PLA%20Matte.bbsflmt) |
+| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20TPU%2095A.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1mini/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
@@ -104,25 +104,25 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PET%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
-| TINMORRY PETG ECO | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Metallic | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PLA%20Matte.bbsflmt) |
-| TINMORRY PLA Rapid | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PLA%20Rapid.bbsflmt) |
-| TINMORRY PLA Silk | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20TPU%2095A.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/A2L/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PET%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
+| TINMORRY PETG ECO | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Metallic | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PLA%20Matte.bbsflmt) |
+| TINMORRY PLA Rapid | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PLA%20Rapid.bbsflmt) |
+| TINMORRY PLA Silk | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20TPU%2095A.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
@@ -131,30 +131,30 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY ABS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20ABS.bbsflmt) |
-| TINMORRY ASA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20ASA.bbsflmt) |
-| TINMORRY ASA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20ASA%20CF.bbsflmt) |
-| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PC%20GF.bbsflmt) |
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PET%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
-| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PLA%20Matte.bbsflmt) |
-| TINMORRY PLA Rapid | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PLA%20Rapid.bbsflmt) |
-| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY TPU | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20TPU.bbsflmt) |
-| TINMORRY TPU 95a | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20TPU%2095a.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2C/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY ABS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20ABS.bbsflmt) |
+| TINMORRY ASA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20ASA.bbsflmt) |
+| TINMORRY ASA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20ASA%20CF.bbsflmt) |
+| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PC%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PET%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
+| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PLA%20Matte.bbsflmt) |
+| TINMORRY PLA Rapid | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PLA%20Rapid.bbsflmt) |
+| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY TPU | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20TPU.bbsflmt) |
+| TINMORRY TPU 95a | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20TPU%2095a.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
@@ -163,28 +163,28 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY ABS pro | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20ABS%20pro.bbsflmt) |
-| TINMORRY ASA CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20ASA%20CF.bbsflmt) |
-| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PC%20GF.bbsflmt) |
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PET%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
-| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Matte， | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PLA%20Matte%EF%BC%8C.bbsflmt) |
-| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY TPU | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20TPU.bbsflmt) |
-| TINMORRY TPU 95a | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20TPU%2095a.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2D/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY ABS pro | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20ABS%20pro.bbsflmt) |
+| TINMORRY ASA CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20ASA%20CF.bbsflmt) |
+| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PC%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PET%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
+| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Matte， | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PLA%20Matte%EF%BC%8C.bbsflmt) |
+| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY TPU | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20TPU.bbsflmt) |
+| TINMORRY TPU 95a | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20TPU%2095a.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
@@ -193,27 +193,27 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY ABS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20ABS.bbsflmt) |
-| TINMORRY ABS Pro | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20ABS%20Pro.bbsflmt) |
-| TINMORRY ASA CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20ASA%20CF.bbsflmt) |
-| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PC%20GF.bbsflmt) |
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PET%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PLA%20Matte.bbsflmt) |
-| TINMORRY PLA Rapid | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PLA%20Rapid.bbsflmt) |
-| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20TPU%2095A.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/H2S/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY ABS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20ABS.bbsflmt) |
+| TINMORRY ABS Pro | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20ABS%20Pro.bbsflmt) |
+| TINMORRY ASA CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20ASA%20CF.bbsflmt) |
+| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PC%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PET%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PLA%20Matte.bbsflmt) |
+| TINMORRY PLA Rapid | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PLA%20Rapid.bbsflmt) |
+| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20TPU%2095A.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
@@ -222,31 +222,31 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY ABS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20ABS.bbsflmt) |
-| TINMORRY ABS Pro | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20ABS%20Pro.bbsflmt) |
-| TINMORRY ASA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20ASA.bbsflmt) |
-| TINMORRY ASA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20ASA%20CF.bbsflmt) |
-| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PC%20GF.bbsflmt) |
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PET%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
-| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PLA.bbsflmt) |
-| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PLA%20Matte.bbsflmt) |
-| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY TPU | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20TPU.bbsflmt) |
-| TINMORRY TPU 95a | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20TPU%2095a.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P1S/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY ABS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20ABS.bbsflmt) |
+| TINMORRY ABS Pro | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20ABS%20Pro.bbsflmt) |
+| TINMORRY ASA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20ASA.bbsflmt) |
+| TINMORRY ASA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20ASA%20CF.bbsflmt) |
+| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PC%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PET%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF PP | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20CF%20PP.bbsflmt) |
+| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PLA.bbsflmt) |
+| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PLA%20Matte.bbsflmt) |
+| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY TPU | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20TPU.bbsflmt) |
+| TINMORRY TPU 95a | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20TPU%2095a.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
@@ -255,30 +255,30 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY ABS Pro | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20ABS%20Pro.bbsflmt) |
-| TINMORRY ASA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20ASA.bbsflmt) |
-| TINMORRY ASA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20ASA%20CF.bbsflmt) |
-| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PC%20GF.bbsflmt) |
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PET%20CF%20GF.bbsflmt) |
-| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
-| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Matte | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20Matte.bbsflmt) |
-| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PLA.bbsflmt) |
-| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PLA%20Matte.bbsflmt) |
-| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY PP-CF ` | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20PP-CF%20%60.bbsflmt) |
-| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20TPU%2095A.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/P2S/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY ABS Pro | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20ABS%20Pro.bbsflmt) |
+| TINMORRY ASA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20ASA.bbsflmt) |
+| TINMORRY ASA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20ASA%20CF.bbsflmt) |
+| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PC%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PET CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PET%20CF%20GF.bbsflmt) |
+| TINMORRY PETG CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG CF GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20CF%20GF.bbsflmt) |
+| TINMORRY PETG ECO | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20Matte.bbsflmt) |
+| TINMORRY PETG Metallic | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PLA.bbsflmt) |
+| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Matte | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PLA%20Matte.bbsflmt) |
+| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY PP-CF ` | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20PP-CF%20%60.bbsflmt) |
+| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20TPU%2095A.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P2S/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
@@ -287,27 +287,27 @@ Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bund
 
 | Filament | Source | Download |
 |---|---|---|
-| TINMORRY ABS Pro | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20ABS%20Pro.bbsflmt) |
-| TINMORRY ASA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20ASA%20CF.bbsflmt) |
-| TINMORRY ASA basic | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20ASA%20basic.bbsflmt) |
-| TINMORRY PA-CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PA-CF.bbsflmt) |
-| TINMORRY PAHT-CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PAHT-CF.bbsflmt) |
-| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PC%20GF.bbsflmt) |
-| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PET%20CF.bbsflmt) |
-| TINMORRY PETG CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PETG%20CF.bbsflmt) |
-| TINMORRY PETG ECO | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PETG%20ECO.bbsflmt) |
-| TINMORRY PETG GF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PETG%20GF.bbsflmt) |
-| TINMORRY PETG Galaxy | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PETG%20Galaxy.bbsflmt) |
-| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PETG%20HS.bbsflmt) |
-| TINMORRY PETG Marble | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PETG%20Marble.bbsflmt) |
-| TINMORRY PETG Metallic | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PETG%20Metallic.bbsflmt) |
-| TINMORRY PETG Sparkly | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PETG%20Sparkly.bbsflmt) |
-| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PLA%20CF.bbsflmt) |
-| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PLA%20Galaxy.bbsflmt) |
-| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PLA%20Silk.bbsflmt) |
-| TINMORRY PLA matte | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20PLA%20matte.bbsflmt) |
-| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20TPU%2095A.bbsflmt) |
-| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/refactor%2FX2D/X2D/0.4mm/TINMORRY%20TPU%20GF.bbsflmt) |
+| TINMORRY ABS Pro | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20ABS%20Pro.bbsflmt) |
+| TINMORRY ASA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20ASA%20CF.bbsflmt) |
+| TINMORRY ASA basic | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20ASA%20basic.bbsflmt) |
+| TINMORRY PA-CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PA-CF.bbsflmt) |
+| TINMORRY PAHT-CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PAHT-CF.bbsflmt) |
+| TINMORRY PC GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PC%20GF.bbsflmt) |
+| TINMORRY PET CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PET%20CF.bbsflmt) |
+| TINMORRY PETG CF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20CF.bbsflmt) |
+| TINMORRY PETG ECO | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20ECO.bbsflmt) |
+| TINMORRY PETG GF | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20GF.bbsflmt) |
+| TINMORRY PETG Galaxy | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Galaxy.bbsflmt) |
+| TINMORRY PETG HS | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20HS.bbsflmt) |
+| TINMORRY PETG Marble | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Metallic | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Metallic.bbsflmt) |
+| TINMORRY PETG Sparkly | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Sparkly.bbsflmt) |
+| TINMORRY PLA CF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PLA%20CF.bbsflmt) |
+| TINMORRY PLA Galaxy | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PLA%20Galaxy.bbsflmt) |
+| TINMORRY PLA Silk | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PLA%20Silk.bbsflmt) |
+| TINMORRY PLA matte | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PLA%20matte.bbsflmt) |
+| TINMORRY TPU 95A | Original | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20TPU%2095A.bbsflmt) |
+| TINMORRY TPU GF | Derived | [download](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20TPU%20GF.bbsflmt) |
 
 </details>
 
