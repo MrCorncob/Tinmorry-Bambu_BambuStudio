@@ -26,9 +26,11 @@ X2D/0.4mm/  Bambu Lab X2D, 0.4mm nozzle
 | H2D | ABS pro, ASA CF, PLA Matte |
 | H2S | ASA CF, PETG CF, PLA Rapid, TPU 95A |
 | P2S | ABS Pro, PETG GF, PETG Marble, PETG Metallic, PP-CF, TPU 95A |
-| X2D | ABS Pro, ASA basic, PETG CF, PETG ECO, PETG GF, PETG Galaxy, PETG Marble, PETG Metallic, PETG Sparkly, PLA matte, TPU 95A |
+| X2D | ABS Pro, ASA basic, ASA CF*, PA-CF*, PAHT-CF*, PC GF*, PET CF*, PETG CF, PETG ECO, PETG GF, PETG Galaxy, PETG HS*, PETG Marble, PETG Metallic, PETG Sparkly, PLA CF*, PLA Galaxy*, PLA Silk*, PLA matte, TPU 95A, TPU GF* |
 
 Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bundle under `X2D/0.4mm/` that contains presets for both the P2S and X2D printers.
+
+\* Not an original TINMORRY export — generated from TINMORRY's older per-printer profiles via `scripts/convert_old_repo_to_x2d.py`. See [REFERENCES.md](REFERENCES.md) for details and a caveat on PA-CF/PAHT-CF temperatures.
 
 ## Installing a profile
 
