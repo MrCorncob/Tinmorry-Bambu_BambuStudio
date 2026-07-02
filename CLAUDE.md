@@ -22,9 +22,13 @@ python3 scripts/convert_old_repo_to_printer.py --printer P2S
 # Regenerate REFERENCES.md's inventory table from the bundles actually on disk
 python3 scripts/gen_inventory_table.py               # print the table
 python3 scripts/gen_inventory_table.py --check       # exit 1 if REFERENCES.md is stale
+
+# Extract any plain .zip wrapping a .bbsflmt (rather than being a bundle itself) into its printer folder
+python3 scripts/unzip_wrapper_zips.py --dry-run
+python3 scripts/unzip_wrapper_zips.py --delete-zip
 ```
 
-All three read from `reference-old-repo/` — a gitignored local clone of TINMORRY's older per-printer profile repo (https://github.com/TINMORRY/TINMORRY-filament-profile-for-Bambu-printers.git). Reclone it there before running any of them; it isn't tracked in this repo. Shared logic (printer registry, gating policy, old-repo parsing, template selection, bundle merging) lives in `scripts/_filament_lib.py`.
+The first three read from `reference-old-repo/` — a gitignored local clone of TINMORRY's older per-printer profile repo (https://github.com/TINMORRY/TINMORRY-filament-profile-for-Bambu-printers.git). Reclone it there before running any of them; it isn't tracked in this repo. Shared logic (printer registry, gating policy, old-repo parsing, template selection, bundle merging) lives in `scripts/_filament_lib.py`.
 
 ## Architecture
 

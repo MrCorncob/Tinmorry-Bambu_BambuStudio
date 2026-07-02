@@ -25,7 +25,7 @@ X2D/0.4mm/  Bambu Lab X2D, 0.4mm nozzle
 | H2C | ABS*, ASA*, ASA CF*, PC GF*, PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG CF PP*, PETG ECO*, PETG GF*, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic*, PETG Sparkly*, PLA CF, PLA Galaxy*, PLA Matte*, PLA Rapid, PLA Silk*, TPU*, TPU 95A*, TPU GF* |
 | H2D | ABS pro, ASA CF, PC GF*, PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG CF PP*, PETG ECO*, PETG GF*, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic*, PETG Sparkly*, PLA CF*, PLA Galaxy*, PLA Matte, PLA Silk*, TPU*, TPU 95A*, TPU GF* |
 | H2S | ABS*, ABS Pro*, ASA CF, PC GF*, PET CF*, PET CF GF*, PETG CF, PETG ECO*, PETG GF*, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic*, PETG Sparkly*, PLA CF*, PLA Galaxy*, PLA Matte*, PLA Rapid, PLA Silk*, TPU 95A, TPU GF* |
-| P2S | ABS Pro, ASA*, ASA CF*, PC GF*, PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG ECO*, PETG GF, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Metallic, PETG Sparkly*, PLA*, PLA CF*, PLA Galaxy*, PLA Matte*, PLA Silk*, PP-CF, TPU 95A, TPU GF* |
+| P2S | ABS Pro, ASA*, ASA CF*, PC GF*, PET CF*, PET CF GF*, PETG CF*, PETG CF GF*, PETG ECO*, PETG GF, PETG Galaxy*, PETG HS*, PETG Marble*, PETG Matte, PETG Metallic, PETG Sparkly*, PLA*, PLA CF*, PLA Galaxy*, PLA Matte*, PLA Silk*, PP-CF, TPU 95A, TPU GF* |
 | X2D | ABS Pro, ASA basic, ASA CF*, PA-CF*, PAHT-CF*, PC GF*, PET CF*, PETG CF, PETG ECO, PETG GF, PETG Galaxy, PETG HS*, PETG Marble, PETG Metallic, PETG Sparkly, PLA CF*, PLA Galaxy*, PLA Silk*, PLA matte, TPU 95A, TPU GF* |
 
 Some filaments (PETG GF, PETG Marble, PETG Metallic, TPU 95A) ship a single bundle under `X2D/0.4mm/` that contains presets for both the P2S and X2D printers.
@@ -50,4 +50,3 @@ See [REFERENCES.md](REFERENCES.md) for a full inventory of bundles and their met
 ## Known quirks
 
 - A few filenames contain unusual characters carried over from the original export (e.g. a full-width comma in `H2D/TINMORRY PLA Matte，.bbsflmt`, a backtick in `` P2S/TINMORRY PP-CF `.bbsflmt ``). These are cosmetic and don't affect import.
-- `P2S/P2S-PETG-Matte.zip` is a plain zip wrapper around a `.bbsflmt` bundle rather than a bundle itself; unzip it first if Bambu Studio doesn't accept it directly.

@@ -40,7 +40,8 @@ KNOWN_ORIGINAL_BUNDLES = {
     ("H2D", "TINMORRY ABS pro"), ("H2D", "TINMORRY ASA CF"), ("H2D", "TINMORRY PLA Matte，"),
     ("H2S", "TINMORRY ASA CF"), ("H2S", "TINMORRY PETG CF"),
     ("H2S", "TINMORRY PLA Rapid"), ("H2S", "TINMORRY TPU 95A"),
-    ("P2S", "TINMORRY ABS Pro"), ("P2S", "TINMORRY PP-CF `"), ("P2S", "TINMORRY TPU 95A"),
+    ("P2S", "TINMORRY ABS Pro"), ("P2S", "TINMORRY PETG Matte"),
+    ("P2S", "TINMORRY PP-CF `"), ("P2S", "TINMORRY TPU 95A"),
     ("X2D/0.4mm", "TINMORRY ABS Pro"), ("X2D/0.4mm", "TINMORRY ASA basic"),
     ("X2D/0.4mm", "TINMORRY PETG CF"), ("X2D/0.4mm", "TINMORRY PETG ECO"),
     ("X2D/0.4mm", "TINMORRY PETG GF"), ("X2D/0.4mm", "TINMORRY PETG Galaxy"),
@@ -80,12 +81,6 @@ def build_table():
         d = REPO_ROOT / folder
         for path in sorted(d.glob("*.bbsflmt")):
             rows.append(bundle_row(folder, path))
-    # Known non-bundle entries kept for reference, appended manually.
-    rows.append({
-        "folder": "P2S", "file": "P2S-PETG-Matte.zip", "filament": "TINMORRY PETG Matte",
-        "type": "PETG", "printers": "(nested `.bbsflmt`, not a bundle itself)",
-        "version": "—", "bundle_id": "—",
-    })
     rows.sort(key=lambda r: (r["folder"], r["file"]))
 
     lines = ["| Folder | File | Filament | Type | Compatible printer | Studio version | Bundle id |",
