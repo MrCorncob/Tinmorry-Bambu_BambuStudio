@@ -43,7 +43,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 <!-- BEGIN GENERATED PROFILE TABLES -->
 
 <details>
-<summary><strong>Bambu Lab A1 (21)</strong></summary>
+<summary><strong>Bambu Lab A1 (22)</strong></summary>
 
 | Sợi in | Nguồn gốc | Tải xuống |
 |---|---|---|
@@ -58,6 +58,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 | TINMORRY PETG Galaxy | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Galaxy.bbsflmt) |
 | TINMORRY PETG HS | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20HS.bbsflmt) |
 | TINMORRY PETG Marble | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Matte.bbsflmt) |
 | TINMORRY PETG Metallic | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Metallic.bbsflmt) |
 | TINMORRY PETG Sparkly | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PETG%20Sparkly.bbsflmt) |
 | TINMORRY PLA | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A1/TINMORRY%20PLA.bbsflmt) |
@@ -100,7 +101,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 </details>
 
 <details>
-<summary><strong>Bambu Lab A2L (19)</strong></summary>
+<summary><strong>Bambu Lab A2L (20)</strong></summary>
 
 | Sợi in | Nguồn gốc | Tải xuống |
 |---|---|---|
@@ -114,6 +115,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 | TINMORRY PETG Galaxy | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Galaxy.bbsflmt) |
 | TINMORRY PETG HS | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20HS.bbsflmt) |
 | TINMORRY PETG Marble | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Matte.bbsflmt) |
 | TINMORRY PETG Metallic | Nguyên bản | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Metallic.bbsflmt) |
 | TINMORRY PETG Sparkly | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PETG%20Sparkly.bbsflmt) |
 | TINMORRY PLA CF | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/A2L/TINMORRY%20PLA%20CF.bbsflmt) |
@@ -127,7 +129,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 </details>
 
 <details>
-<summary><strong>Bambu Lab H2C (24)</strong></summary>
+<summary><strong>Bambu Lab H2C (25)</strong></summary>
 
 | Sợi in | Nguồn gốc | Tải xuống |
 |---|---|---|
@@ -145,6 +147,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 | TINMORRY PETG Galaxy | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Galaxy.bbsflmt) |
 | TINMORRY PETG HS | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20HS.bbsflmt) |
 | TINMORRY PETG Marble | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Matte.bbsflmt) |
 | TINMORRY PETG Metallic | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Metallic.bbsflmt) |
 | TINMORRY PETG Sparkly | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PETG%20Sparkly.bbsflmt) |
 | TINMORRY PLA CF | Nguyên bản | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2C/TINMORRY%20PLA%20CF.bbsflmt) |
@@ -159,7 +162,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 </details>
 
 <details>
-<summary><strong>Bambu Lab H2D (22)</strong></summary>
+<summary><strong>Bambu Lab H2D (23)</strong></summary>
 
 | Sợi in | Nguồn gốc | Tải xuống |
 |---|---|---|
@@ -176,6 +179,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 | TINMORRY PETG Galaxy | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Galaxy.bbsflmt) |
 | TINMORRY PETG HS | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20HS.bbsflmt) |
 | TINMORRY PETG Marble | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Matte.bbsflmt) |
 | TINMORRY PETG Metallic | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Metallic.bbsflmt) |
 | TINMORRY PETG Sparkly | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PETG%20Sparkly.bbsflmt) |
 | TINMORRY PLA CF | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2D/TINMORRY%20PLA%20CF.bbsflmt) |
@@ -189,7 +193,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 </details>
 
 <details>
-<summary><strong>Bambu Lab H2S (21)</strong></summary>
+<summary><strong>Bambu Lab H2S (22)</strong></summary>
 
 | Sợi in | Nguồn gốc | Tải xuống |
 |---|---|---|
@@ -205,6 +209,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 | TINMORRY PETG Galaxy | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Galaxy.bbsflmt) |
 | TINMORRY PETG HS | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20HS.bbsflmt) |
 | TINMORRY PETG Marble | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Matte.bbsflmt) |
 | TINMORRY PETG Metallic | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Metallic.bbsflmt) |
 | TINMORRY PETG Sparkly | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PETG%20Sparkly.bbsflmt) |
 | TINMORRY PLA CF | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/H2S/TINMORRY%20PLA%20CF.bbsflmt) |
@@ -218,7 +223,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 </details>
 
 <details>
-<summary><strong>Bambu Lab P1S (25)</strong></summary>
+<summary><strong>Bambu Lab P1S (26)</strong></summary>
 
 | Sợi in | Nguồn gốc | Tải xuống |
 |---|---|---|
@@ -237,6 +242,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 | TINMORRY PETG Galaxy | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Galaxy.bbsflmt) |
 | TINMORRY PETG HS | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20HS.bbsflmt) |
 | TINMORRY PETG Marble | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Matte.bbsflmt) |
 | TINMORRY PETG Metallic | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Metallic.bbsflmt) |
 | TINMORRY PETG Sparkly | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PETG%20Sparkly.bbsflmt) |
 | TINMORRY PLA | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/P1S/TINMORRY%20PLA.bbsflmt) |
@@ -283,7 +289,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 </details>
 
 <details>
-<summary><strong>Bambu Lab X2D (21)</strong></summary>
+<summary><strong>Bambu Lab X2D (22)</strong></summary>
 
 | Sợi in | Nguồn gốc | Tải xuống |
 |---|---|---|
@@ -300,6 +306,7 @@ Một số loại sợi (PETG GF, PETG Marble, PETG Metallic, TPU 95A) dùng chu
 | TINMORRY PETG Galaxy | Nguyên bản | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Galaxy.bbsflmt) |
 | TINMORRY PETG HS | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20HS.bbsflmt) |
 | TINMORRY PETG Marble | Nguyên bản | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Marble.bbsflmt) |
+| TINMORRY PETG Matte | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Matte.bbsflmt) |
 | TINMORRY PETG Metallic | Nguyên bản | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Metallic.bbsflmt) |
 | TINMORRY PETG Sparkly | Nguyên bản | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PETG%20Sparkly.bbsflmt) |
 | TINMORRY PLA CF | Được tạo | [tải về](https://raw.githubusercontent.com/MrCorncob/Tinmorry-Bambu_BambuStudio/all-printers/X2D/0.4mm/TINMORRY%20PLA%20CF.bbsflmt) |

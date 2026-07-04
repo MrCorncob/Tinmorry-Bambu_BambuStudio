@@ -33,7 +33,7 @@ def report_printer(printer_name: str):
           f"  |  tier-proof active: {is_engineering_capable(info['dir']) and info['enclosed']}")
 
     for gap in find_gaps(printer_name):
-        print(f"  [{gap['verdict']:45s}] {gap['label']:24s} <- {gap['source']['file']}")
+        print(f"  [{gap['verdict']:45s}] {gap['label']:24s} <- {gap['source']['source_dir']}/{gap['source']['file']}")
 
 
 def main():

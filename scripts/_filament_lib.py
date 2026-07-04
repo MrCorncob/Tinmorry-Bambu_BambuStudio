@@ -15,27 +15,39 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OLD_REPO_DIR = REPO_ROOT / "reference-old-repo"
+BAMBUPRINTERS_DIR = REPO_ROOT / "reference-bambuprinters"
+CUSTOM_OVERRIDE_DIR = REPO_ROOT / "scripts" / "custom_overrides"
 
 # Every printer folder in this repo, its exact compatible_printers string,
-# the @BBL machine code(s) old-repo deltas use to tag that same physical
-# printer (see reference-old-repo/*.json "inherits" fields), and whether
-# the printer has a physical enclosure (side panels/lid at minimum -- not
-# necessarily an actively heated chamber). "enclosed" gates tier-proof
-# only (see classify_gap): A1/A1 mini/A2L are Bambu's open-frame budget
-# line with no panels, so even if the old repo has DIRECT evidence one
-# engineering material works there (e.g. Bambu ships a "Generic PC @BBL
-# A1" system profile), that doesn't imply an unrelated material like ABS
-# is safe there too -- ABS/ASA's fumes and warping specifically call for
-# an enclosure, which these printers don't have. Direct evidence is still
-# trusted regardless of "enclosed", since it's a real vendor-declared
-# compatibility fact, not our own inference.
+# the machine code(s) that identify a delta as being FOR this exact
+# physical printer, and whether the printer has a physical enclosure (side
+# panels/lid at minimum -- not necessarily an actively heated chamber).
+# "enclosed" gates tier-proof only (see classify_gap): A1/A1 mini/A2L are
+# Bambu's open-frame budget line with no panels, so even if the old repo
+# has DIRECT evidence one engineering material works there (e.g. Bambu
+# ships a "Generic PC @BBL A1" system profile), that doesn't imply an
+# unrelated material like ABS is safe there too -- ABS/ASA's fumes and
+# warping specifically call for an enclosure, which these printers don't
+# have. Direct evidence is still trusted regardless of "enclosed", since
+# it's a real vendor-declared compatibility fact, not our own inference.
 # P1P/X1C/X1E system profiles exist in the old repo but have no folder in
 # this repo, so they're not registered as targets -- only used as fallback
 # source data for base-tier materials.
+#
+# Most codes here are the "@BBL <code>" tag old-repo deltas embed in their
+# "inherits" string (see reference-old-repo/*.json). reference-bambuprinters/
+# (see External references) tags its files by printer in the FILENAME
+# instead -- many of its filament JSONs are complete per-printer exports
+# with an empty "inherits", not small deltas -- so bambuprinters_entries()
+# maps that filename token onto this same code namespace via
+# BAMBUPRINTERS_TOKEN_TO_BBL_CODE below. "a2l" has no old-repo equivalent
+# (the old repo predates A2L) but reference-bambuprinters/ has a real
+# per-printer export tagged for it, hence it's registered here even though
+# A2L has no "@BBL" code of its own in reference-old-repo/.
 PRINTERS = {
     "A1": {"dir": "A1", "compatible": "Bambu Lab A1 0.4 nozzle", "bbl_codes": {"a1"}, "enclosed": False},
     "A1mini": {"dir": "A1mini", "compatible": "Bambu Lab A1 mini 0.4 nozzle", "bbl_codes": {"a1m"}, "enclosed": False},
-    "A2L": {"dir": "A2L", "compatible": "Bambu Lab A2L 0.4 nozzle", "bbl_codes": set(), "enclosed": False},
+    "A2L": {"dir": "A2L", "compatible": "Bambu Lab A2L 0.4 nozzle", "bbl_codes": {"a2l"}, "enclosed": False},
     "H2C": {"dir": "H2C", "compatible": "Bambu Lab H2C 0.4 nozzle", "bbl_codes": {"h2c"}, "enclosed": True},
     "H2D": {"dir": "H2D", "compatible": "Bambu Lab H2D 0.4 nozzle", "bbl_codes": {"h2d"}, "enclosed": True},
     "H2S": {"dir": "H2S", "compatible": "Bambu Lab H2S 0.4 nozzle", "bbl_codes": {"h2s"}, "enclosed": True},
@@ -96,10 +108,17 @@ PRINTER_TOKENS = {
 NOISE_WORDS = {"generic", "bambu"}
 
 
-# A handful of old-repo filenames glue the material and grade together with
-# no separator (e.g. "TPU95A"), which would otherwise tokenize as one blob
-# that never matches the "TPU" + "95A" tokens used everywhere else.
-GLUED_TOKEN_FIXES = {"tpu95a": "tpu 95a"}
+# A handful of old-repo/BambuPrinters filenames glue the material and grade
+# together with no separator (e.g. "TPU95A", "ABSPro"), which would
+# otherwise tokenize as one blob that never matches the "TPU" + "95A" (or
+# "ABS" + "Pro") tokens used everywhere else -- and so never dedupes
+# against an existing "TPU 95A"/"ABS Pro" bundle, letting the converter
+# mint a bogus duplicate product instead of recognizing the gap is already
+# covered. See reference-bambuprinters/ABSPro_ASA_Filament(P2S...).json,
+# whose "ABSPro" blob otherwise produces a nonsense "ABS Abspro Asa"
+# bundle on any printer that's merely tier-proof for engineering materials
+# (H2D, X2D) rather than being deduped like it should be.
+GLUED_TOKEN_FIXES = {"tpu95a": "tpu 95a", "abspro": "abs pro"}
 
 
 def normalize(text: str, drop_noise: bool = True) -> set:
@@ -153,12 +172,83 @@ def old_repo_entries():
         descriptor_part = re.sub(r"\(.*", "", path.stem)
         descriptor = normalize(descriptor_part) - normalize(base_material or "")
         yield {
+            "path": path,
             "file": path.name,
+            "source_dir": "reference-old-repo",
             "inherits": inherits,
             "bbl_code": bbl_code,
             "base_material": base_material,
             "descriptor": descriptor,
         }
+
+
+# reference-bambuprinters/ (see External references) names its files
+# "<Material>_Filament(<PrinterToken>-TinmorryBinhDuong).json" (or
+# "*_Process(...).json" for print/process settings, which this repo has
+# no use for -- it only bundles filament presets, see CLAUDE.md). Unlike
+# reference-old-repo/, many of its filament JSONs are complete per-printer
+# exports with an empty "inherits" rather than a small "@BBL"-tagged
+# delta, so the printer they're FOR has to be read off the filename
+# instead of parsed out of "inherits". "P1SX1C" (a combined P1S/X1C
+# export) maps to P1S, the only one of the two this repo tracks;
+# "KobraX-Anycubic" is deliberately absent -- it's not a Bambu Lab
+# printer, so it's skipped rather than guessed into some Bambu folder.
+BAMBUPRINTERS_TOKEN_TO_BBL_CODE = {
+    "A1": "a1", "A1mini": "a1m", "A2L": "a2l",
+    "H2C": "h2c", "H2D": "h2d", "H2S": "h2s",
+    "P1SX1C": "p1s", "P2S": "p2s", "X2D": "x2d",
+}
+
+
+def bambuprinters_entries():
+    """Yield dicts describing every reference-bambuprinters/*_Filament(*).json
+    export, normalized to the same shape as old_repo_entries() so
+    find_gaps() can draw on both sources.
+
+    Skips "*_Process(...)" files (out of scope -- see module docstring
+    above) and any file whose filename printer token isn't in
+    BAMBUPRINTERS_TOKEN_TO_BBL_CODE (currently just the Anycubic export).
+    """
+    for path in sorted(BAMBUPRINTERS_DIR.glob("*_Filament(*).json")):
+        m = re.match(r"(.+)_Filament\((.+)\)$", path.stem)
+        if not m:
+            continue
+        material_part, paren = m.groups()
+        printer_token = re.sub(r"[-_]Tinmorry.*$", "", paren, flags=re.IGNORECASE)
+        bbl_code = BAMBUPRINTERS_TOKEN_TO_BBL_CODE.get(printer_token)
+        if bbl_code is None:
+            continue
+
+        data = json.loads(path.read_text())
+        inherits = data.get("inherits", "") or ""
+        if data.get("filament_type"):
+            # A complete per-printer export declares its own filament_type
+            # directly -- more reliable than parsing "inherits", which is
+            # often blank on these files.
+            base_material = data["filament_type"][0]
+        else:
+            lineage = inherits.split("@")[0].lower()
+            base_material = next((mat for sub, mat in INHERITS_BASE_MATERIAL if sub in lineage), None)
+        if base_material is None:
+            continue
+
+        descriptor = normalize(material_part) - normalize(base_material)
+        yield {
+            "path": path,
+            "file": path.name,
+            "source_dir": "reference-bambuprinters",
+            "inherits": inherits,
+            "bbl_code": bbl_code,
+            "base_material": base_material,
+            "descriptor": descriptor,
+        }
+
+
+def delta_entries():
+    """Yield entries from every registered delta source (reference-old-repo/
+    plus reference-bambuprinters/), in the common shape find_gaps() expects."""
+    yield from old_repo_entries()
+    yield from bambuprinters_entries()
 
 
 def bundle_labels(printer_dir: str):
@@ -226,11 +316,12 @@ def classify_gap(base_material: str, bbl_code: str, printer_codes: set, engineer
 
 
 def find_gaps(printer_name: str):
-    """Yield one dict per old-repo filament family missing from a printer.
+    """Yield one dict per delta-source filament family missing from a printer.
 
     Each dict has: base_material, descriptor (token set), label, verdict
-    (see classify_gap), and source (the chosen old-repo entry dict, biased
-    towards a machine-coded delta for this printer when one exists).
+    (see classify_gap), and source (the chosen delta entry dict -- from
+    reference-old-repo/ or reference-bambuprinters/, see delta_entries() --
+    biased towards a machine-coded delta for this printer when one exists).
     """
     info = PRINTERS[printer_name]
     existing_tokens = [tokens for _, _, tokens in bundle_labels(info["dir"])]
@@ -240,7 +331,7 @@ def find_gaps(printer_name: str):
     engineering_capable = is_engineering_capable(info["dir"]) and info["enclosed"]
 
     groups = {}
-    for entry in old_repo_entries():
+    for entry in delta_entries():
         if entry["base_material"] is None:
             continue
         key = (entry["base_material"], frozenset(entry["descriptor"]))
@@ -431,11 +522,52 @@ def make_filament_id(output_name: str, printer_dir: str) -> str:
     return f"Pf{zlib.crc32(f'{printer_dir}:{output_name}'.encode()) % 900000 + 100000}"
 
 
+def custom_override_path(printer_dir: str, output_name: str) -> Path:
+    """Where a hand-maintained override for this printer/filament would live.
+
+    See load_custom_override()'s docstring for the override mechanism this
+    supports.
+    """
+    return CUSTOM_OVERRIDE_DIR / printer_dir / f"{output_name}.json"
+
+
+def load_custom_override(printer_dir: str, output_name: str):
+    """Load a hand-maintained override for one generated bundle, if present.
+
+    scripts/custom_overrides/<printer_dir>/<output_name>.json (committed,
+    NOT gitignored -- unlike reference-old-repo/ and
+    reference-bambuprinters/, which are reclone-able source dumps) lets a
+    maintainer force specific fields on a generated bundle -- e.g. a real
+    spec-sheet nozzle/bed temperature for X2D's PA-CF/PAHT-CF bundles,
+    which inherited PETG-CF's temperatures for lack of a better source (see
+    REFERENCES.md) -- without hand-editing the generated .bbsflmt or
+    teaching the generic template/merge logic about a one-off exception.
+
+    The override file is a flat {key: value} dict applied on top of the
+    fully-merged profile as the LAST step in build_bundle(), after the
+    template and old-repo/BambuPrinters delta are merged -- so it always
+    wins. Values must already be in the profile's final shape (e.g. a list
+    for a per-extruder-variant field, one entry per
+    filament_extruder_variant) since this is a flat overwrite, not another
+    template/delta merge.
+    """
+    path = custom_override_path(printer_dir, output_name)
+    if not path.exists():
+        return None, None
+    return json.loads(path.read_text()), path
+
+
 def build_bundle(printer_dir: str, output_name: str, filament_type: str,
-                  template_printer_dir: str, template_bundle: str, source_file: str):
-    """Merge a template + old-repo delta into a new bundle dict pair, ready to write."""
+                  template_printer_dir: str, template_bundle: str, source_path):
+    """Merge a template + delta-source profile into a new bundle dict pair,
+    ready to write, then layer any custom override on top (see
+    load_custom_override()).
+
+    Returns (bundle_structure, profile_path, profile, override_path) --
+    override_path is None when no override file exists for this bundle.
+    """
     bundle_structure, template_profile = load_bundle_profile(template_printer_dir, template_bundle)
-    delta = json.loads((OLD_REPO_DIR / source_file).read_text())
+    delta = json.loads(Path(source_path).read_text())
 
     compatible = next(p for p in PRINTERS.values() if p["dir"] == printer_dir)["compatible"]
 
@@ -448,6 +580,10 @@ def build_bundle(printer_dir: str, output_name: str, filament_type: str,
     profile["filament_vendor"] = ["TINMORRY"]
     profile["compatible_printers"] = [compatible]
 
+    override, override_path = load_custom_override(printer_dir, output_name)
+    if override:
+        profile.update(override)
+
     profile_path = f"TINMORRY/{profile_name}.json"
     new_bundle_structure = {
         "bundle_id": f"{BUNDLE_ID_PREFIX}_{output_name}_{int(time.time())}",
@@ -456,7 +592,7 @@ def build_bundle(printer_dir: str, output_name: str, filament_type: str,
         "filament_vendor": [{"filament_path": [profile_path], "vendor": "TINMORRY"}],
         "version": bundle_structure["version"],
     }
-    return new_bundle_structure, profile_path, profile
+    return new_bundle_structure, profile_path, profile, override_path
 
 
 # ---------------------------------------------------------------------------

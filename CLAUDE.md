@@ -9,8 +9,8 @@ Not a software project — a collection of Bambu Studio filament preset bundles 
 ## Commands
 
 ```bash
-# Report gaps: filament types in reference-old-repo/ with no bundle yet for a given printer,
-# each labeled ALLOW or SKIP per the compatibility policy below
+# Report gaps: filament types in reference-old-repo/ and reference-bambuprinters/ with no
+# bundle yet for a given printer, each labeled ALLOW or SKIP per the compatibility policy below
 python3 scripts/find_missing_filaments.py                 # all printers
 python3 scripts/find_missing_filaments.py --printer H2D   # one printer
 
@@ -35,7 +35,13 @@ python3 scripts/unzip_wrapper_zips.py --delete-zip
 
 Run `gen_inventory_table.py` and `gen_readme_tables.py --write` together any time a bundle is added, removed, or renamed — both derive from `_filament_lib.inventory_rows()`, so they can't drift from each other, but neither is regenerated automatically. `gen_readme_tables.py`'s raw-download links are hardcoded to `GITHUB_OWNER`/`GITHUB_REPO`/`GITHUB_BRANCH` at the top of that file — update those constants (and rerun with `--write`) if the repo moves or this work lands on a different branch.
 
-`find_missing_filaments.py` and `convert_old_repo_to_printer.py` read from `reference-old-repo/` — a gitignored local clone of TINMORRY's older per-printer profile repo (https://github.com/TINMORRY/TINMORRY-filament-profile-for-Bambu-printers.git). Reclone it there before running any of them; it isn't tracked in this repo. Shared logic (printer registry, gating policy, old-repo parsing, template selection, bundle merging) lives in `scripts/_filament_lib.py`.
+`find_missing_filaments.py` and `convert_old_repo_to_printer.py` read from two gitignored local delta sources, neither tracked in this repo — reclone both before running either script:
+- `reference-old-repo/`: TINMORRY's older per-printer profile repo (https://github.com/TINMORRY/TINMORRY-filament-profile-for-Bambu-printers.git). Small `"inherits"`-based deltas, tagged by printer via an `"@BBL <code>"` string inside `inherits`.
+- `reference-bambuprinters/`: TINMORRY (Binh Duong)'s repo (https://github.com/tinmorrybinhduong/BambuPrinters) — see REFERENCES.md's External references. Many of its `*_Filament(*).json` files are complete per-printer exports with a blank `inherits`, tagged by printer via the filename instead (`*_Process(*).json` files are print/process settings and are ignored — out of scope, this repo only bundles filament presets).
+
+Both sources are merged into one set of gaps by `_filament_lib.delta_entries()`, so `find_gaps()` picks whichever source has evidence for a given printer (preferring a direct match over an arbitrary same-material entry from another printer — see `find_gaps` in `_filament_lib.py`). Shared logic (printer registry, gating policy, delta-source parsing, template selection, bundle merging) lives in `scripts/_filament_lib.py`.
+
+**Custom overrides**: to hand-force specific fields on a generated bundle (e.g. a real spec-sheet temperature that no delta source has), add `scripts/custom_overrides/<printer_dir>/<output_name>.json` — a flat `{key: value}` dict, committed (not gitignored). `convert_old_repo_to_printer.py` applies it as the last step after the template/delta merge, so it always wins; values must already be in the profile's final shape (e.g. a list with one entry per `filament_extruder_variant` for per-variant fields). See `_filament_lib.load_custom_override`'s docstring.
 
 ## Architecture
 
@@ -45,7 +51,7 @@ Run `gen_inventory_table.py` and `gen_readme_tables.py --write` together any tim
 
 **Per-extruder-variant fields**: parameters that vary by extruder (e.g. `filament_flow_ratio`, `nozzle_temperature`, `filament_max_volumetric_speed`) are arrays parallel to `filament_extruder_variant`. Bundles with 4 variants (`[Direct Drive Standard, Direct Drive High Flow, Bowden Standard, Bowden High Flow]`) consistently mirror the "Direct Drive High Flow" value into both Bowden slots — the merge logic in `_filament_lib.merge_profile` relies on and preserves this convention.
 
-**`reference-old-repo/` vs this repo's format**: the old repo's profiles are small deltas (`"inherits": "Generic PC @BBL P1S"` + a handful of overridden keys) against Bambu Studio's own built-in system profiles for *other* printers — not self-contained, and can't be flattened for a printer without that printer's own system profile data (not available locally). The converter works around this by taking an existing bundle (ideally for the *same* printer, same material) as a machine-parameter template and layering the old-repo delta's material-specific tuning (flow ratio, plate temp, fan speed, max volumetric speed, retraction) on top, leaving `"nil"`/unspecified fields at the template's already-validated value.
+**Delta sources vs this repo's format**: `reference-old-repo/`'s profiles are small deltas (`"inherits": "Generic PC @BBL P1S"` + a handful of overridden keys) against Bambu Studio's own built-in system profiles for *other* printers — not self-contained, and can't be flattened for a printer without that printer's own system profile data (not available locally). `reference-bambuprinters/`'s `*_Filament(*).json` files are a mix of the same small-delta shape and complete per-printer exports (blank `inherits`, ~150 keys) — `_filament_lib.merge_profile` treats both shapes identically, since a delta with (nearly) every key just overwrites (nearly) everything the template would have supplied. Either way, the converter works around the non-self-contained cases by taking an existing bundle (ideally for the *same* printer, same material) as a machine-parameter template and layering the delta's material-specific tuning (flow ratio, plate temp, fan speed, max volumetric speed, retraction) on top, leaving `"nil"`/unspecified fields at the template's already-validated value.
 
 **Template selection** (`_filament_lib.choose_template`): (1) an existing bundle for the *same printer* with the same `filament_type` — best; (2) an existing bundle for the same printer in the same **polymer family** (`_filament_lib.POLYMER_FAMILY` — PLA-ish, PETG-ish, TPU, ABS/ASA/PC, or PA-ish; deliberately finer than the compatibility tiers below, since e.g. a PLA-CF bundle is a bad temperature template for a PETG Galaxy gap even though both are "base tier"); (3) `_filament_lib.FALLBACK_TEMPLATE`, a repo-wide canonical set (mostly pointing at `X2D/0.4mm/`, which has the broadest coverage). Template lookups always use a bundle-list **snapshot taken before a conversion run starts writing** — never a live re-scan — so bundle N+1 in a batch can't template off bundle N that the same run just generated; everything traces back to a real, originally-existing bundle.
 
